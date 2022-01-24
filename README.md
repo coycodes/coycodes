@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End and UX
 - 🌱 I’m currently learning HTML, CSS, and Javascript on #TheOdinProject
 - 💞️ I’m looking to collaborate on projects for complete beginners
-- 📫 Let's connect on LinkedIn (Marion Pagulayan) or Discord (@marion)!
+- 📫 Let's connect on LinkedIn (Marion Pagulayan) or Discord (@coycodes)!
 
 <!---
 coycodes/coycodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
