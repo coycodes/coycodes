@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coycodes
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning HTML, CSS, and Javascript
+- 🌱 I’m currently learning HTML, CSS, and Javascript on #TheOdinProject
 - 💞️ I’m looking to collaborate on projects for complete beginners
 - 📫 Let's connect on LinkedIn (Marion Pagulayan) or Discord (@coycodes)!
 
