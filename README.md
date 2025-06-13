@@ -1,4 +1,4 @@
-- 👋 Hi there! I’m Marion Pagulayan
+- 👋 Hi there! I’m Coy.
 - 👀 I’m a dev noob interested in Front-End and Web3
 - 🌱 I’m currently learning web dev foundations on #TheOdinProject
 - 💞️ I’m looking to collaborate on projects for complete beginners
