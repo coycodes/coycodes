@@ -2,7 +2,6 @@
 - 👀 I’m a dev noob interested in Front-End and Web3
 - 🌱 I’m currently learning web dev foundations on #TheOdinProject
 - 💞️ I’m looking to collaborate on projects for complete beginners
-- 📫 Let's connect on LinkedIn (Marion Pagulayan) or Discord (@coycodes)!
 
 <!---
 coycodes/coycodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
